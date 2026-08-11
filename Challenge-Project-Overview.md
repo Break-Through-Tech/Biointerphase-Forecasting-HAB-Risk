@@ -2,6 +2,7 @@
 
 **Company / Org:** Biointerphase  
 **Challenge Advisor:** Alyssa Long, along@biointerphase.com    
+**AI Studio Coach:** Eric Bayless, eric.bayless@breakthroughtech.org  
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
